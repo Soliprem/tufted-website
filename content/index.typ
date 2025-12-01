@@ -3,7 +3,7 @@
 
 
 = Soliprem
-#quote(block: true)[    _All, everything I understand, I only understand because I love_
+#quote(block: true, attribution: "Leo Tolstoy")[    _All, everything I understand, I only understand because I love_
 ]
 
 #margin-note[
