@@ -7,5 +7,5 @@
     "/posts/": "Posts",
     "/about/": "About",
   ),
-  title: "Tufted",
+  title: "Soliprem",
 )
