@@ -1,0 +1,764 @@
+Cap_Realism:
+  type: book
+  title: "Capitalist Realism: is there no alternative?"
+  author: Fisher, Mark
+  date: 2009
+  publisher: Zero Books
+  edition: 10th edition
+
+Perverted_Guide_Global_politics:
+  type: book
+  title: Perverted Guide to Global Politics
+  author: Zizek, Slavoj
+  date: 2022
+  publisher: Ponte alle Grazie
+  edition: 1st edition
+
+Complexity:
+  type: book
+  title: "Complexity: The emerging science at the edge of order and chaos"
+  author: Waldrop, M. Mitchell
+  date: 1992
+  publisher: Penguin Books
+  edition: 1st edition
+
+Blindness_Saramago:
+  type: book
+  title: Blindness
+  author: Josè, Saramago
+  date: 1995
+  publisher: Universale Economica Feltrinelli
+  edition: 13th edition
+
+prodi_europa:
+  type: book
+  title: L'Europa
+  author: Prodi, Romano
+  date: 2021
+  publisher: Rizzoli
+  edition: 1st edition
+
+cosc_zeno:
+  type: book
+  title: "La Coscienza di Zeno "
+  author: Svevo, Italo
+  date: 1923
+  publisher: Cappelli
+
+il_fu_mattia_pascal:
+  type: book
+  title: Il Fu Mattia Pascal
+  author: Pirandello, Luigi
+  date: 1904
+
+umorismo_pirandello:
+  type: misc
+  title: L'Umorismo
+  author: Pirandello, Luigi
+  date: 1908
+
+quaderni_serafino:
+  type: book
+  title: I Quaderni di Serafino Gubbio Operatore
+  author: Pirandello, Luigi
+  date: 1916
+  publisher: Treves
+
+uno_nessuno_centomila:
+  type: book
+  title: Uno, Nessuno e Centomila
+  author: Pirandello, Luigi
+  date: 1926
+  publisher: R.Bemporad & figlio
+
+sein_und_zeit_heidegger:
+  type: book
+  title: Sein und Zeit
+  author: Heidegger, Martin
+  date: 1927
+
+Horrigan-Kelly_Heidegger:
+  type: article
+  title: Understanding the Key Tenets of Heidegger's Philosophy
+  author: Horrigan-Kelly, Marcella
+  date: 2016
+  parent:
+    type: periodical
+    title: International Journal of Qualitative Methods
+
+Peter_caws_Heidegger_Sartre:
+  type: book
+  title: "Philosophy of Existance and Philosophical Anthropology: Sartre and Heidegger"
+  author:
+    - Caws, Peter
+    - Fettner, Peter
+  date: 1999
+  publisher: Edinburgh University Press
+
+IpccReportSumIpcc:
+  type: article
+  title: IPCC Report Summary for Policy Makers
+  author: IPCC
+  parent:
+    type: periodical
+
+TheEffectOfSHalkos2010:
+  type: article
+  title: The effect of stress and satisfaction on productivity
+  author:
+    - Halkos, George
+    - Bousinakis, Dimitrios
+  date: 2010
+  page-range: 415-431
+  url: http://dx.doi.org/10.1108/17410401011052869
+  serial-number:
+    doi: 10.1108/17410401011052869
+  parent:
+    type: periodical
+    title: International Journal of Productivity and Performance Management
+    publisher: Emerald
+    issue: 5
+    volume: 59
+
+ODI-electoral-systems:
+  type: article
+  title: "Why electoral systems matter: an analysis of their incentives and effects on key areas of governance "
+  author: Menocal, Alina Rocha
+  date: 2011
+  url: https://odi.org/en/publications/why-electoral-systems-matter-an-analysis-of-their-incentives-and-effects-on-key-areas-of-governance/
+  parent:
+    type: periodical
+    publisher: Overseas Development Institute (ODI)
+
+mrsimple07_2024:
+  type: misc
+  title: Salary Prediction Data
+  author: MrSimple07
+  date: 2024
+  publisher: Kaggle
+  url: https://www.kaggle.com/dsv/7563601
+  serial-number:
+    doi: 10.34740/KAGGLE/DSV/7563601
+
+HiEdBigN:
+  type: article
+  title: Higher Education, Bigger Networks? Differences by Family Socioeconomic Background and Network Measures
+  author: Andersson, Matthew A.
+  date: 2018
+  page-range: "2378023118797217"
+  url: https://doi.org/10.1177/2378023118797217
+  serial-number:
+    doi: 10.1177/2378023118797217
+  abstract: " Income or health returns linked to obtaining a college degree often are greatest for individuals who come from socioeconomically disadvantaged families. Although this importantly suggests that college lessens many forms of inequality linked to parental socioeconomic status, empirical knowledge about adult network inequality remains limited. Drawing on the 1972–2014 General Social Survey, the author finds that higher education associates on average with a greater number of nonkin and community ties. However , college gains in nonkin networks and capital exist mostly among those coming from disadvantaged families, suggesting that college may substitute or compensate for otherwise limited networks. In contrast, differences in frequency of socializing by higher education are not conditioned by parental background. As a whole, the present findings suggest that college attendance may lessen life-course network inequality within the general population. "
+  parent:
+    type: periodical
+    title: Socius
+    issue: ""
+    volume: 4
+
+rise:
+  type: Article
+  title: The rise of social media
+  author: ["Esteban Ortiz-Ospina"]
+  url: "https://ourworldindata.org/rise-of-social-media"
+  date: 2019-11-18
+
+pol-def:
+  type: Article
+  title: Merriam-Webster
+  author: ["Edward, Walker"]
+  url: "https://doi.org/10.1007/978-3-030-44556-0_63"
+  date: 2022-01-01
+
+pol-hist:
+  type: Article
+  author:
+    ["Jacob, Jensen", "Suresh,Naidu", "Ethan, Kaplan", "Laurence, Wilse-Samson"]
+  title: Political Polarization and the Dynamics of Political Language Evidence from 130 Years of Partisan Speech
+  url: "https://www.columbia.edu/~lhw2110/2012b_Jensen.pdf"
+  date: 2012
+
+astro-def:
+  type: Article
+  title: Astroturf Lobbying
+  author: ["Edward, Walker"]
+  url: "https://doi.org/10.1007/978-3-030-44556-0_63"
+  date: 2022-01-01
+
+astro-sudkr:
+  type: Article
+  author:
+    ["Franziska B. Keller", "David Schoch", "Sebastian Stier", "JungHwan Yang"]
+  title: How to Manipulate Social Media Analyzing Political Astroturfing Using Ground Truth Data from South Korea
+  url: "https://www.researchgate.net/publication/317290047_How_to_Manipulate_Social_Media_Analyzing_Political_Astroturfing_Using_Ground_Truth_Data_from_South_Korea"
+  date: 2017-05
+
+astro-usa2016:
+  type: Article
+  author: ["Michael T. Oswald"]
+  title: Shaping Public Opinion Digitally, Astroturfing and Elections
+  url: "https://www.researchgate.net/publication/327449837_Shaping_Public_Opinion_Digitally_Astroturfing_and_Elections"
+  date: 2018-08
+
+astro-china:
+  type: Article
+  author: ["Gary, king", "Jennifer, Pan", "Margaret E ,Roberts"]
+  title: How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument
+  url: "https://www.cambridge.org/core/journals/american-political-science-review/article/how-the-chinese-government-fabricates-social-media-posts-for-strategic-distraction-not-engaged-argument/4662DB26E2685BAF1485F14369BD137C"
+  serial-number:
+    doi: https://doi.org/10.1017/S0003055417000144
+  date: 2017-07-27
+
+us-intelligence-IRA:
+  type: Article
+  author: ["Permanent Select Committe on Intelligence"]
+  title: Exposing Russia’s Effort to Sow Discord Online, The Internet Research Agency and Advertisements
+  url: "https://democrats-intelligence.house.gov/social-media-content/"
+  date: 2018-02-16
+
+astro-coordpatterns:
+  type: Article
+  author:
+    [
+      "David, Schoch",
+      "Franziska B. Keller",
+      "Sebastian, Stier",
+      "JungHwan, Yang",
+    ]
+  title: Coordination patterns reveal online political astroturfing across the world
+  url: "https://www.nature.com/articles/s41598-022-08404-9#Sec2"
+  date: 2022-04-17
+
+sentiment-commercial:
+  type: Article
+  author:
+    ["Noora, Alallaq", "Muhmmad Al-Khizaay", "Mohammed Iqbal Dohan", "Xin Han"]
+  title: Sentiment Analysis to Enhance Detection of Latent Astroturfing Groups in Online Social Networks
+  serial-number:
+    doi: http://dx.doi.org/10.1007/978-981-13-2907-4_7
+  date: 2018-10-07
+
+sentiment-def:
+  type: Web
+  title: Cambridge Dictionary
+  url: "https://dictionary.cambridge.org/dictionary/english/sentiment-analysis"
+  date: 2024-08-11
+
+mueller:
+  type: Report
+  author: ["Robert, Mueller"]
+  title: Report On The Investigation Into Russian Interference In The 2016 Presidential Election
+  url: "https://www.justice.gov/storage/report.pdf"
+  date: 2019-04
+
+wylie-testimony:
+  type: Report
+  author: ["Chris, Wylie"]
+  title: In the matter of Cambridge Analytica and other related issues
+  url: "https://www.judiciary.senate.gov/imo/media/doc/05-16-18%20Wylie%20Testimony.pdf"
+  date: 2018-05-16
+
+ftc-unfair:
+  type: Article
+  title: Guides Concerning the Use of Endorsements and Testimonials in Advertising
+  url: "https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf"
+  date: 2009-10
+
+eu-unfair:
+  type: Article
+  title: Concerning unfair business-to-consumer commercial practices
+  url: "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:149:0022:0039:EN:PDF"
+  date: 2005-05-11
+
+uva-astro:
+  type: Article
+  title: The Consequences of Astroturf Lobbying for Trust and Authenticity
+  author: ["Lock, I.", "Seele, P."]
+  serial-number:
+    doi: https://doi.org/10.22522/cmr20170121
+  date: 2017-04-01
+
+connecticut-lr:
+  type: Article
+  title: Artificial Grassroots Advocacy and the Constitutionality of Legislative Identification and Control Measures Note
+  author: ["Jonathan C. Zellner"]
+  url: "https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?params=/context/law_review/article/1089/&path_info=17f3ef_af8d8acc496a46ca9271369a1d8f7a44.pdf"
+  date: 2010-11
+
+2007-lobby-law:
+  type: Article
+  title: H.R.2317 - Lobbying Transparency Act of 2007
+  url: "https://www.congress.gov/bill/110th-congress/house-bill/2317/text"
+  date: 2007-05-15
+
+tenet-inditment:
+  type: case
+  title: Two RT Employees Indicted for Covertly Funding and Directing U.S. Company that Published Thousands of Videos in Furtherance of Russian Interests
+  url: "https://www.justice.gov/opa/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published-thousands"
+  author: ["Department of Justice, USA"]
+  date: 2024-09-04
+
+election-issues-2024:
+  type: Article
+  url: "https://www.pewresearch.org/politics/2024/09/09/issues-and-the-2024-election/"
+  title: In tied presidential race, Harris and Trump have Contrasting Strenghts, weaknesses
+
+berlusconi-media-reach:
+  type: Article
+  url: "https://www.theguardian.com/media/2010/nov/08/silvio-berlusconi-media"
+  title: Silvio Berlusconi`s media reach
+  date: 2010-11-08
+
+tidytext:
+  type: web
+  url: "https://www.tidytextmining.com/"
+  title: Text Mining with R
+  date: 2024-12-19
+
+NRC:
+  type: web
+  url: "https://doi.org/10.4224/21270984"
+  title: "NRC lexicon"
+  date: 2024-12-19
+
+AFINN:
+  type: web
+  url: "https://arxiv.org/abs/1103.2903"
+  title: "AFINN lexicon"
+  date: 2024-12-19
+
+BING:
+  type: Article
+  url: "https://dl.acm.org/doi/10.1145/1014052.1014073"
+  title: "Bing lexicon"
+  date: 2024-12-19
+
+LDA:
+  type: article
+  url: "https://dl.acm.org/doi/10.5555/944919.944937"
+  author: ["David M. Blei", "Andrew Y. Ng", "Micheal I. Jordan"]
+  title: "Latent dirichlet allocation"
+  date: 2024-12-19
+
+538:
+  type: web
+  url: "https://github.com/fivethirtyeight/russian-troll-tweets"
+  author: ["Dhrumil Mehta", "Gus Wezerek", "Andrei Scheinkman"]
+  date: 2018-02
+
+indonesia_pol:
+  type: article
+  date: 2019-11-08
+  title: "Analysis of Indonesia Politics Polarization before2019 President Election Using Sentiment Analysis and Social Network Analysis"
+  url: "https://www.mecs-press.org/ijmecs/ijmecs-v11-n11/IJMECS-V11-N11-4.pdf"
+  author: ["Mohammad Nur Habibi", "Sunjana"]
+
+sentiment_ethics:
+  type: Article
+  author: ["Saif. M, Mohammad"]
+  title: Practical and Ethical Considerations in the Effective use of Emotion and Sentiment Lexicons
+  serial-number:
+    doi: http://dx.doi.org/10.48550/arXiv.2011.03492
+  date: 2020-11
+
+ita_lda:
+  type: Article
+  author:
+    [
+      "Gabriele, Papadia",
+      "Massimo, Pacella",
+      "Massimiliano, Perrone",
+      "Vincenzo, Giliberti",
+    ]
+  title: A Comparison of Different Topic Modeling Methods through a Real Case Study of Italian Customer Care
+  serial-number:
+    doi: https://doi.org/10.3390/a16020094
+  date: 2023
+
+twobetter:
+  type: Article
+  author: ["Gabriela, Czarnek", "David, Stillwell"]
+  title: "Two is better than one: Using a single emotion lexicon can lead to unreliable conclusions"
+  serial-number:
+    doi: https://doi.org/10.1371/journal.pone.0275910
+  date: 2022-10-14
+
+diaz-bigdata:
+  type: Article
+  author: ["Diaz-Bone, Rainer", "Horvath, Kenneth", "Cappel, Valeska"]
+  title: "Social Research in Times of Big Data: The Challenges of New Data Worlds and the Need for a Sociology of Social Research"
+  serial-number:
+    doi: https://doi.org/10.12759/hsr.45.2020.3.314-341
+  date: 2020
+
+simons-algorithms:
+  type: Book
+  author: ["Josh, Simons"]
+  title: "Algorithms for the people: Democracy in the Age of AI"
+  url: "https://www.jstor.org/stable/j.ctv2vjrj0m"
+  date: 2023-01-10
+  page: 29
+
+data-witnessing:
+  type: Article
+  author: ["Jhonathan, Grey"]
+  title: "Data witnessing: attending to injustice with data in Amnesty International’s Decoders project"
+  serial-number:
+    doi: https://doi.org/10.1080/1369118X.2019.1573915
+  date: 2019-02-20
+
+audit-culture:
+  type: Article
+  author: ["Cris, Shore", "Susan, Wright"]
+  title: "Audit Culture Revisited: Rankings, Ratings, and the Reassembling of Society"
+  url: "https://www.journals.uchicago.edu/doi/full/10.1086/681534"
+  date: 2015-06
+
+ldatuning:
+  type: web
+  url: "https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html"
+  title: Select number of topics for LDA model
+  author: ["Nikita Murzintcev"]
+  date: 2020-04-20
+
+griffiths:
+  type: Article
+  author: ["Thomas L. Griffiths", "Mark Steyvers"]
+  title: "Finding scientific topics"
+  serial-number:
+    doi: http://doi.org/10.1073/pnas.0307752101
+  date: 2004
+
+caojuan:
+  type: Article
+  author: [" Cao Juan", "Xia Tian", "Li Jintao", "Zhang Yongdong", "Tang Sheng"]
+  title: "A density-based method for adaptive lda model selection. Neurocomputing"
+  serial-number:
+    doi: http://doi.org/10.1016/j.neucom.2008.06.011
+  date: 2009
+
+arun:
+  type: Article
+  author:
+    [
+      " Rajkumar Arun",
+      "V. Suresh",
+      "C. E. Veni Madhavan",
+      "M. N. Narasimha, Murthy",
+    ]
+  title: "On finding the natural number of topics with latent dirichlet allocation"
+  serial-number:
+    doi: http://doi.org/10.1007/978-3-642-13657-3_43
+  date: 2010
+
+opposing-pol:
+  type: Article
+  author:
+    [
+      "Christopher A. Bail",
+      "Lisa P. Argyle",
+      "Taylor W. Brown",
+      "Alexander Volfovsky",
+      "et al.",
+    ]
+  title: "Exposure to opposing views on social media can increase political polarization"
+  serial-number:
+    doi: https://doi.org/10.1073/pnas.1804840115
+  date: 2018-10-18
+
+astroturf-pol:
+  type: Article
+  author:
+    ["David Schoch", "Franziska B. Keller", "Sebastian Stier", "JungHwan Yang"]
+  title: "Coordination patterns reveal online political astroturfing across the world"
+  serial-number:
+    doi: https://doi.org/10.1038/s41598-022-08404-9
+  date: 2022-04-17
+
+rol-cambridge:
+  type: Book
+  author: ["Ginsburg, T.", " Versteeg, M.", "Meierhenrich, J.", "Loughlin, M."]
+  title: "Rule of law measurement."
+  url: "https://doi.org/10.1017/9781108600569"
+  date: 2021-08
+  page: 505
+  editor: Cambridge University Press
+
+beyond-disinformation:
+  type: Article
+  author: ["Jovy, Chan"]
+  title: "Online astroturfing, A problem beyond disinformation"
+  serial-number:
+    doi: https://doi.org/10.1177/01914537221108467
+  date: 2022-06-16
+
+manip-socio:
+  type: Article
+  author: ["Edward L. Bernays"]
+  title: "Manipulating Public Opinion, The Why and The How"
+  url: "https://www.journals.uchicago.edu/doi/10.1086/214599"
+  date: 1928-05
+
+poison-astro:
+  type: Article
+  author: ["Edward Walker", "Andrew Le"]
+  title: "Poisoning the Well: How Astroturfing Harms Trust in Advocacy Organizations"
+  url: "https://doi.org/10.1177/23294965221123808"
+  date: 2022-10-22
+
+astroturf-detection:
+  type: Article
+  author: ["Tong Chen", "Jiqiang Liu"]
+  title: "Survey on Astroturfing Detection and Analysis from an Information Technology Perspective"
+  url: "https://doi.org/10.1155/2021/3294610"
+  date: 2021-12-01
+
+polpol-dynamics:
+  type: Article
+  author: ["Delia Baldassarri", "Peter Bearman"]
+  title: "Dynamics of Political Polarization"
+  url: "https://doi.org/10.1177/000312240707200507"
+  date: 2007-10
+
+online-pol:
+  type: Article
+  author: ["Almog Simchon", " William J Brady", "Jay J Van Bavel"]
+  title: "Troll and divide: the language of online polarization"
+  url: "https://doi.org/10.1093/pnasnexus/pgac019"
+  date: 2022-03
+
+patkos-index:
+  type: Article
+  author: ["Veronika Patkós"]
+  title: "Measuring partisan polarization with partisan differences in satisfaction with the government: the introduction of a new comparative approach"
+  url: "https://doi.org/10.1007/s11135-022-01350-8"
+  date: 2022-02-27
+
+pop-disinformation:
+  type: Article
+  author: ["Hameleers, Michael"]
+  title: "Populist Disinformation: Exploring Intersections between Online Populism and Disinformation in the US and the Netherlands"
+  url: "https://doi.org/10.17645/pag.v8i1.2478"
+  date: 2022-03-05
+
+LinvillWarren-2016:
+  type: Article
+  author: ["Darren L Linvill", " Patrick L Warren", "Amanda E Moore"]
+  title: "Talking to Trolls—How Users Respond to a Coordinated Information Operation and Why They’re So Supportive"
+  url: "https://doi.org/10.1093/jcmc/zmab022"
+  date: 2021-11-28
+
+american-authoritarianism:
+  type: Article
+  author: ["Steven Levitsky", "Lucal A. Way"]
+  title: "The Path to American Authoritarianism: what comes after Democratic Breakdown"
+  date: 2025-02-11
+
+ai-consumer-choices:
+  type: Article
+  author: ["Arshaan Khurana"]
+  title: "AI And Behavioral Economics: Redefining Consumer
+Choices"
+  date: 2025-02
+  url: "https://doi.org/10.9790/5933-1601022429"
+
+ai-neuroscientific-decision-making:
+  type: Article
+  author: ["Lorenzo Damiani"]
+  title: "Behavioral economics and AI: a neuroscientific approach to human decision-making"
+  date: 2024-05-21
+  url: "https://tesi.luiss.it/38547/"
+
+computational-behavioral-economics:
+  type: Article
+  author: ["Shu-Heng Chen", "Ying-Fang Kao", "Ragupathy Venkatachalam"]
+  title: "Computational Behavioral Economics"
+  url: 
+    value: "https://eprints-gro.gold.ac.uk/id/eprint/19493/1/CBE_wordformat_edited_17nov2015.pdf"
+    date: 2025-05-10
+  date: 2015
+
+realistic-market-simulations:
+  type: Article
+  author: ["Andrea Coletta", "Matteo Prata", "Michele Conti", "Emanuele Mercanti", "Novella Bartolini", "Aymeric Moulin", "Svitlana Vyetrnko", "Tucker Balch"]
+  url: 
+    value: "https://arxiv.org/abs/2110.13287" 
+    date: 2025-05-10
+  title: "Towards Realistic Market Simulations: a Generative Adversarial Networks Approach"
+  date: 2021-10-25
+
+machine-learning-stock-market-prediction:
+  type: Article
+  author: ["Azaz Hassan Khan", "Abdullah Shah", "Abbas Ali", "Rabia Shahid", "Zaka Ullah Zahid", "Malik Umar Sharif", "Tariqullah Jan", "Mohammad Haseeb Zafar"]
+  publisher: PLOS One
+  date: 2023-09-21
+  url:
+    value: "https://doi.org/10.1371/journal.pone.0286362"
+    date: 2025-05-10
+  title: "A performance comparison of machine learning models for stock market prediction with novel investment strategy"
+
+agora-protocol:
+  type: Article
+  title: "A Scalable Communication Protocol for Networks of Large Language Models"
+  author: ["Samuele Marro", "Emanuele La Malfa", "Jesse Wright", "Nigel Shadbolt", "Micael Wooldridge", "Philip Torr"]
+  date: 2024-10-14
+  url:
+    value: "https://arxiv.org/abs/2410.11905"
+    date: 2025-05-10
+
+process-tracing-tool:
+  type: Article
+  title: "Going beyond the single case: Comparative Process Tracing as a tool to enable generalizations about causal processes"
+  author: ["Aarhus Derek Beach", "Gabriela Camacho"]
+  date: 2022
+  url: "https://api.semanticscholar.org/CorpusID:263235297"
+
+internal-external-validity-tradeoff:
+  type: Article
+  title: "Can there be a trade off between internal and external validity"
+  author: "M. Vaeth"
+  date: 2019-09-11
+  url: "https://www.semanticscholar.org/paper/Can-there-be-a-trade-off-between-internal-and-Vaeth/39d00a4064934864a3c403a3fdd156812e48d7d0"
+
+surface-biosignatures:
+  type: Article
+  title: "Surface biosignatures of exo-Earths: Remote detection of extraterrestrial life"
+  author: ["Siddharth Hegde", "Ivan G. Paulino-Lima", "Ryan Kent", "Lisa Kaltenegger", "Lynn Rothschild"]
+  date: 2015-04-16
+  url: 
+    value: "https://www.pnas.org/doi/10.1073/pnas.1421237112"
+    date: 2025-08-30
+
+planets-habitable:
+  type: Article
+  title: "What makes a planet habitable?"
+  author: ["H. Lammer", "J.H Bredehöft", "A. Coustenis", "M.L. Khodachenko", "L. Kaltenegger", "O. Grasset", "D. Prieur", "F. Raulin", "P. Ehrenfreund", "M. Yamauchi", "J.-E. Wahlund", "J.-M. Grießmeier", "G. Stangl", "C.S. Cockell", "Yu. N. Kulikov", "J. L. Grenfell", "H. Rauer"]
+  date: 2008-08-25
+  url: 
+    value: "https://web.archive.org/web/20160602235333/http://veilnebula.jorgejohnson.me/uploads/3/5/8/7/3587678/lammer_et_al_2009_astron_astro_rev-4.pdf"
+    date: 2025-08-30
+
+caso-necessità:
+  type: book
+  title: "Il caso e la necessità"
+  author: Monod, J
+  date: 1992
+  publisher: Mondadori
+
+beginning-of-cellular-life:
+  type: book
+  title: "Beginning of Cellular Life"
+  author: Morowitz, H.J.
+  date: 1992
+  publisher: Yale University Press
+
+blind-watchmaker: &blind-watchmaker
+  type: book
+  author: Dawkins, R.
+  title: "The Blind Watchmaker"
+  publisher: Penguin Books
+
+what-is-life:
+  type: book
+  title: "What is Life, and Mind and Matter"
+  author: Schrödinger, E
+  date: 1992
+  publisher: Cambridge University Press
+
+emergence-life: &emergence-life
+  type: book
+  author: Luisi, P.L.
+  date: 2006
+  title: "The Emergence of Life"
+  publisher: Cambridge University Press
+
+clues-origin-life:
+  type: book
+  title: "Seven Clues of the Origin of Life"
+  author: Cairns-Smith
+  date: 1985
+  publisher: Cambridge University Press
+  parent: 
+    - *blind-watchmaker
+    - *emergence-life
+
+autopoiesis-cognition:
+  type: book
+  title: "Autopooiesis and Cognition: The Realization of the Living"
+  author: ["Maturana, H.", "Varela, F."]
+  date: 1980
+  publisher: Reidel
+  parent: *emergence-life
+
+warm-dry-habitable-planets:
+  type: article
+  title: "Warm, water-depleted rocky exoplanets with surface ionic liquids: A proposed class for planetary haitability"
+  author:
+    - Rachana Agrawal
+    - Sara Seager
+    - Iaroslav Iakubisvkyi
+    - Weston P. Buchanan
+    - Ana Glidden
+    - Maxwell D. Seager
+    - (William Bains)
+    - Jingcheng Huang
+    - Janusz J. Petkowski
+  date: 2025-08-11
+  url:
+    value: https://www.pnas.org/doi/10.1073/pnas.2425520122
+    date: 2025-08-30
+
+earth-system:
+  type: book
+  title: "The Earth System"
+  author: ["Kum, L.R.", "Kasting J.F.K.", "Crane R.G."]
+  date: 2014
+  publisher: Pearson
+
+bass1969:
+  type: article
+  title: A New Product Growth for Model Consumer Durables
+  author: Bass, Frank M.
+  date: 1969
+  journal: Management Science
+  volume: 15
+  number: 5
+  pages: 215-227
+
+granovetter1978:
+  type: article
+  title: Threshold Models of Collective Behavior
+  author: Granovetter, Mark
+  date: 1978
+  journal: American Journal of Sociology
+  volume: 83
+  number: 6
+  pages: 1420-1443
+
+jackson2008:
+  type: book
+  title: Social and Economic Networks
+  author: Jackson, Matthew O.
+  date: 2008
+  publisher: Princeton University Press
+  location: Princeton
+
+doganis2019:
+  type: book
+  title: Flying Off Course
+  subtitle: Airline Economics and Marketing
+  author: Doganis, Rigas
+  date: 2019
+  edition: 5
+  publisher: Routledge
+  location: London
+
+guimera2005:
+  type: article
+  title: "The worldwide air transportation network: Anomalous centrality, community structure, and cities' global roles"
+  author: ["Guimerà, Roger", "Mossa, S.", "Turtschi, A.", "Amaral, L. A. N."]
+  date: 2005
+  journal: PNAS
+  volume: 102
+  number: 22
+  pages: 7794-7799

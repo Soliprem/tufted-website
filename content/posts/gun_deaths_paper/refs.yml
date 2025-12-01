@@ -1,0 +1,42 @@
+Gundeaths:
+  type: misc
+  author:  ["Ahmed, Eltom"]
+  title: US Gun deaths by County 1999-2019
+  date: 2019
+  url: https://www.kaggle.com/datasets/ahmedeltom/us-gun-deaths-by-county-19992019
+  archive: Kaggle
+  parent: 
+    - type: Web
+      title: Gun Deaths by County
+      url: https://data.world/
+    - type: Web
+      title: Multiple Cause of Death with U.S. - Mexico Border Regions, 1999-2020
+      url: https://wonder.cdc.gov/ucd-border.html
+      
+Lawprovisions:
+  type: misc
+  author: ["Jacob, Boysen"]
+  title: Firearms Provisions in US States
+  date: 2017
+  url: https://www.kaggle.com/datasets/jboysen/state-firearms?select=raw_data.csv
+  archive: Kaggle
+  parent: 
+    type: Web
+    title: National Data
+    url: https://www.statefirearmlaws.org/national-data
+    author: ["Michael, Siegel"]
+    organization: Everytown for Gun Safety and Legal Science
+
+Violentcrimes:
+  type: misc
+  author: ["Bojan, Tunguz"]
+  title: US Estimated Crimes
+  date: 2019
+  url: https://www.kaggle.com/datasets/tunguz/us-estimated-crimes
+  archive: Kaggle
+  parent: 
+    type: Web
+    title: Summary Reporting System
+    url: https://ofm.wa.gov/sites/default/files/public/legacy/sac/pdf/srs/srs_dictionary.pdf
+    organization: FBI
+
