@@ -1,3 +1,6 @@
+#import "../index.typ": *
+#show: template
+
 #let definition(name, body, fill: gray) = {
   quote[body]
 }
